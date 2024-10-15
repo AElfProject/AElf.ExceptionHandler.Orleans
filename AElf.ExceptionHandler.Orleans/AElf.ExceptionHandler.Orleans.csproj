@@ -28,7 +28,7 @@
 
     <ItemGroup>
         <PackageReference Include="Microsoft.Orleans.Core.Abstractions" Version="7.0.0" />
-        <PackageReference Include="AElf.ExceptionHandler" Version="1.6.2" />
+        <PackageReference Include="AElf.ExceptionHandler" Version="1.7.0" />
     </ItemGroup>
 
 </Project>
